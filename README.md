@@ -6,16 +6,16 @@ This course focuses on media integration, interactivity, client-side development
 
 
 
-- [_Web Tech_ Website](https://montana-media-arts.github.io/web-tech-Spring2019/)
+- [_Web Tech_ Website](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/)
 
 
 ### Updated By:
 
 - Professor Michael Cassens
 - E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
-- Office: McGill Hall, 232.
+- Office: McGill Hall, 230.
 
 
 ### Updated
 
-This course was last updated: 2018-12-29
+This course was last updated: 2020-1-5
