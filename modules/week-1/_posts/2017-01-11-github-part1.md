@@ -19,7 +19,7 @@ By "watching" the course repository you will be get notifications about new issu
 
 To watch the course repo;
 
-- Navigate to [https://github.com/Montana-Media-Arts/441-WebTech-Spring2019](https://github.com/Montana-Media-Arts/441-WebTech-Spring2019). This issues forum for this site is also linked to from the "Issues-Forum" tab above in the navbar.
+- Navigate to [https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples). This issues forum for this site is also linked to from the "Issues-Forum" tab above in the navbar.
 - In the upper right-hand corner, you should select both "watching" and "star".
     - This will allow GitHub to e-mail you about notifications and issues in the course repo.
     - **Part of your grade for this course is based on _participation_. This is how you participate.**
@@ -31,7 +31,7 @@ To watch the course repo;
 
 ## Create a new “Issue”
 
-To create or respond to an issue, open the repo ["Issues Forum"](https://github.com/Montana-Media-Arts/441-WebTech-Spring2019/issues).
+To create or respond to an issue, open the repo ["Issues Forum"](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples/issues).
 
 There you can search open issues to try and;
 
