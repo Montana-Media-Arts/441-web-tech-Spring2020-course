@@ -31,7 +31,7 @@ I would also like to say that I am first and foremost a teacher, so I will work 
 >
 > Prior to the Media Arts Department, Michael taught in the Computer Science Department for approximately 18 years as an Adjunct and Lecturer.  He has taught a number of courses including Introduction to Programming, Fundamentals of Computer Science I and II, Data Structures, Algorithms, Software Science, Database Design, Game and Mobile Application Programming, Advanced Client-Side Web Programming and Advanced Server-Side Web Programming. Michael also started his own consulting company 2002 in which he still operates building software for small to medium sized businesses.  Michael has a BA in Biology as well as a M.S. Computer Science. Originally from Boulder, Colorado, St. Louis, MO, then, Victor, MT, Michael loves being outside with his family as well as mountain biking, snowboarding, hiking, photography, and just being in nature.
 >
-> For more information please visit his consulting site at [silverleaf-consulting.com](http://silverleaf-consulting.com) .
+
 
 
 <!--
@@ -43,8 +43,4 @@ If you are unable to solve problems on your own or through the course "issues fo
 -->
 <!-- video -->
 
-## Lab Assistants
 
- Media Arts continues to provide help to all online students through the 127 Media Arts Lab in McGill. This lab is staffed by wonderful MFA students who are prepared to answer your questions, or help you figure out how to answer your questions.
-
-Lab hours, along with Lab Assistant information will be posted in the ["Help"]({{site.baseurl}}/help/) tab.
