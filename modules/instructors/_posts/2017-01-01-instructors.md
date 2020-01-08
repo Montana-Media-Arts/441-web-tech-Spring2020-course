@@ -15,7 +15,7 @@ Michael Cassens maintains this course. Please contact Michael with any problems.
 - Skype: michaelcassens
 - Google+: michaelcassens@gmail.com
 - [Teaching Website](https://michaelcassens.github.io/teaching)
-- [Personal Website: silverleaf-consulting.com](http://silverleaf-consulting.com)
+
 
 
 #### Office Hours
