@@ -54,18 +54,12 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples/issues).
+2. Post a message to the [Course Discord](https://discord.gg/nbVCKwX)
+    - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
+3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
-3. Go to the 127 Media Arts Lab
-    - The Media Arts Lab in room 127 of McGill hall has daily "lab monitors" who are hired to assist with problem solving and class help. Take advantage of these people and this resource. The lab hours, along with who is in during specific times will be located under the ["Help"]({{site.baseurl}}/help/#lab-hours) tab above.
-4. Contact the [Teaching Assistant]({{site.baseurl}}/instructors/#TA).
-    - The TA for this class should be contacted with content/technical questions, or disputes about grades.
-    - They will hold [regular lab hours](#lab-hours) in 127 once a week.
-    - They will also monitor the GitHub issues forum.
-    - If you need to contact them directly, please use email
-        - [TBA](mailto:michael.cassens@umontana.edu?subject=441%20Question)
-5. Get help from [Michael Cassens]({{site.baseurl}}/instructors/#instructor-prof-michael-cassens)
+4. Get help from [Michael Cassens]({{site.baseurl}}/instructors/#instructor-prof-michael-cassens)
     - If you have a problem, or need help that no one can offer, please contact Michael Cassens.
     - One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my [office hours section]({{site.baseurl}}/instructors/#office-hours). This is another way is to email me.
     - If you are a distance student or cannot make one of those times, please email me. (I will check my email multiple times a day)

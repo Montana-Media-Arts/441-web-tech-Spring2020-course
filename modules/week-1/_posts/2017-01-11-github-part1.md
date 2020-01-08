@@ -22,7 +22,6 @@ To watch the course repo;
 - Navigate to [https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples). This issues forum for this site is also linked to from the "Issues-Forum" tab above in the navbar.
 - In the upper right-hand corner, you should select both "watching" and "star".
     - This will allow GitHub to e-mail you about notifications and issues in the course repo.
-    - **Part of your grade for this course is based on _participation_. This is how you participate.**
         - When you have problems, post them here.
         - If you get an email about a new issue, try to help the person out.
         - Your participation grade will be based on how active you were on the GitHub issues forum, as well as comments to your classmates to their weekly homework assignments.
