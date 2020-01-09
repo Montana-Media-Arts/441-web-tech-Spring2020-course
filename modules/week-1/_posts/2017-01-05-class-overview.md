@@ -33,7 +33,7 @@ This week is a chance for you to get [re-]familiarize yourself with tools on you
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59PM on the Monday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59 PM on the Monday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
 For example, this module is opening on Monday, January 13th. Therefore, you have through next Monday, January 20th to complete the module. Likewise, your homework is due Saturday by 11:59 PM.
 

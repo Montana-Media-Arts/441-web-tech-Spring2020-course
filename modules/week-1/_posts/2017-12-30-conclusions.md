@@ -11,7 +11,7 @@ Remember, if you need help, you should try using the course ["Issues Forum" host
 
 ## Study Groups
 
-Another strategy I would suggest you adopt, regardless of whether you need help right now, is to form a study/work group for this class. Consider reaching out to your fellow classmates. You could do this through the Issues Forum...
+Another strategy I would suggest you adopt, regardless of whether you need help right now, is to form a study/work group for this class. Consider reaching out to your fellow classmates. You could do this through the Issues Forum or Discord.
 
 ## Date Information
 
