@@ -5,6 +5,8 @@ module: 1
 
 # What Will This Course Be Like?
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/vpYsIrqvr2g3E9SRtQSDVKR_W9S4f66s0HdK-6ZfnRnkVSJWNFKgZOMUZeJHb-Znj3Ghh2sP6vVndC6f?continueMode=true" frameborder="0" allowfullscreen></iframe></div>
+
 Now that you have gone through the syllabus, along with its technical details and policies, lets talk about how this course will actually look like.
 
 ## Text & Reading

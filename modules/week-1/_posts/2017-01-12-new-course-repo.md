@@ -6,6 +6,9 @@ jotted: false
 
 # Create a New Git Repository for This Course
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/65F4db_5rTo3S9THtwSDV_BxW468J66s13NKr_JYmhuwVHkKYwekbuFEY-shb4eC4XsqB7qpEIQnW0iE?continueMode=true" frameborder="0" allowfullscreen></iframe></div>
+
+
 Before we dive into the assignment for the week, I want to walk you through creating a new Git repository for use in this course. We will also turn this repository "on", as a GitHub-Pages site.
 
 First, we will create a new repo directly on GitHub.com. We will then turn it on as a GH-Pages site. Finally, we will "clone" it to our local machine, add some necessary files, and then push those back to the remote host on GitHub.com.

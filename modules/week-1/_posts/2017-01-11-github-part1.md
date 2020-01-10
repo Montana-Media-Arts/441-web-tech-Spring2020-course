@@ -7,6 +7,10 @@ module: 1
 
 # _Issues Forum_ and Notifications from GitHub.com
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/65AlIu37_Wk3SYeStQSDCvArW9S5LP6s0CAc8vEFzUrkBSMBZ1ajMLcRN0vsnkjPm3ysRHXzo-AJAiw?continueMode=true" frameborder="0" allowfullscreen></iframe></div>
+
+
+
 This class is heavily utilizing [GitHub.com](https://github.com). Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub and there is a "resources" repo for this site that contains;
 
 - code examples for this course
@@ -47,5 +51,5 @@ NOTE: You should not repeat a comment that has already been added by anyone from
 As the semester goes on you will be expected to open issues here when you are having problems. You will also be graded on your involvement in the course issue board and your responses provided to fellow classmates throughout the semester.
 
 <!-- maybe another video here too
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NNBQ2Oe4orY" frameborder="0" allowfullscreen></iframe></div>
+
 -->
