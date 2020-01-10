@@ -10,7 +10,7 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
 
-<!-- <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fyqb7vTyMN4" frameborder="0" allowfullscreen></iframe></div> -->
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/upwkdL35rjg3TNHE5gSDAaQtW420K6qs0iRPr_pfzkfhByICYQbyYeYXZLfjXR61L6Fv1YR5hQfzgT-e?continueMode=true" frameborder="0" allowfullscreen></iframe></div>
 
 ## Michael Cassens
 
