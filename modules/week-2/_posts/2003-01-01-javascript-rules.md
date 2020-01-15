@@ -25,9 +25,11 @@ Every modern web browser built for computers (as opposed to mobile devices/OS's)
 - post errors about the site
 - print out information developers tell it to
 - allow for interactive JavaScript statements to be executed via the ["command line"](https://developers.google.com/web/tools/chrome-devtools/console/)
+
 <!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C6Cyrpkb25k" frameborder="0" allowfullscreen></iframe></div>
 -->
+
 For our first "Hello World!" program, we will use Chrome's "Web Console".
 
 To open the Web Console (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux or <kbd>Cmd</kbd>-<kbd>Option</kbd>-<kbd>K</kbd> on Mac), select "Web Console" from the "Developer" menu, which is under the "Tools" menu in Chrome. By default, it will open at the bottom of the browser window. Along the bottom of the console is a command line that you can use to enter JavaScript, and the output appears in the pane above:
