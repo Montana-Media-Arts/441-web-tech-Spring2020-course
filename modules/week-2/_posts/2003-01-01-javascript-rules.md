@@ -32,7 +32,7 @@ Every modern web browser built for computers (as opposed to mobile devices/OS's)
 
 For our first "Hello World!" program, we will use Chrome's "Web Console".
 
-To open the Web Console (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux or <kbd>Cmd</kbd>-<kbd>Option</kbd>-<kbd>K</kbd> on Mac), select "Web Console" from the "Developer" menu, which is under the "Tools" menu in Chrome. By default, it will open at the bottom of the browser window. Along the bottom of the console is a command line that you can use to enter JavaScript, and the output appears in the pane above:
+To open the Web Console (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux or <kbd>Cmd</kbd>-<kbd>Option</kbd>-<kbd>K</kbd> on Mac), select the three vertical ellipses from the upper right hand corner of the browser. Then, select "More TOols" and then "Developer Tools" in Chrome. By default, it will open a new window to the right or bottom of the browser window. Along the bottom of the console is a command line that you can use to enter JavaScript, and the output appears in the pane above:
 
 ![Showing the location of 'web console' in the menus](../imgs/web-console-menu.png "Showing the location of 'web console' in the menus")
 
