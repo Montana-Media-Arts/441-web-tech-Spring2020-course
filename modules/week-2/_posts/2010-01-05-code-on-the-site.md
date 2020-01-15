@@ -10,45 +10,7 @@ jotted: true
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dK9cVaLtjaw" frameborder="0" allowfullscreen></iframe></div>
 -->
 
-Now that we have started looking at code, I want to mention a few specifics about how code will work and what it will look like on this site.
-
-You have hopefully already noticed, during all of these first three weeks that there are specific code blocks. These should be displayed in your browser with a dark grey background and utilize a monospaced font. In theory this should _look like code_.
-
-<div id="code-heading">Code Info</div>
-
-```
-Example Code Block
-
-This is what code will look like in your browser on this site.
-```
-
-<br />
-
-
-This code will also be highlighted so that the syntax of the code is more apparent.
-
-## Specifying Language or File
-
-When appropriate, there will be information about what the code is you are looking at in the upper-right hand corner. Typically, for this course, this will be one of;
-
-- **HTML**
-    - This is HTML code.
-- **CSS**
-   - This is Cascading Style Sheets
-- **JS**
-    - or JavaScript, which specifies the code you are looking at is general JavaScript.
-
-# Code Results Output
-
-Whenever possible and appropriate, I will also work to show you what the code output we are working on should look like. These sections will be surrounded with a big border.
-
-<div class="displayed_code_example">
-    <h1 style="">Code Results are Displayed in These Sections</h1>
-</div>
-
-# Playing with Code
-
-Also, whenever possible, I will try to provide code output in a way that is editable, changeable, and playable, by you. There will static code blocks above the results sections, but there will also be a tab'd bar within the output section, that at a minimum will include;
+Whenever possible, I will try to provide code output in a way that is editable, changeable, and playable, by you.
 
 - "Result"
 - "HTML"
@@ -56,10 +18,9 @@ Also, whenever possible, I will try to provide code output in a way that is edit
 
 If you see one of these sections, you can;
 
-1. click on the other tabs,
-2. change the code,
-3. go back to "Results"
-4. and see the changes live!
+1. change the code,
+2. go back to "Results"
+3. and see the changes live!
 
 Try it below with the "Hello World!" example.
 
