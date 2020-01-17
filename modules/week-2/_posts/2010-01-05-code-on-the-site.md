@@ -52,7 +52,7 @@ To do this;
     showResult: true,
     runScripts: false,
     plugins: [
-        { name: 'ace', options: { "maxLines": 50 } },
+        { name: 'ace', options: { "maxLines": 100 } },
         // { name: 'console', options: { autoClear: true } },
     ]
 });
