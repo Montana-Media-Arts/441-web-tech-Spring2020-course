@@ -6,6 +6,9 @@ jotted: false
 
 # "JavaScript Rules!" in JavaScript
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://umontana.zoom.us/rec/play/7MckJOisqW03S9WU4wSDUaV8W9W4fK2s0XAe-vJbzUixVyQFMQDzb7YWYbbiVFAgJ3qNWE_MhBMdJaMl?continueMode=true
+" frameborder="0" allowfullscreen></iframe></div>
+
 As with any programming language, the first thing to do is write and execute some ["Hello World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
 The goal of the "Hello World!" program is to introduce you to the language, and prove that it works. The Hello World program is essentially a way to make sure you are up and running.
