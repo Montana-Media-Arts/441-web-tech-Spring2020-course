@@ -44,7 +44,7 @@ At the end of the chapter you should have an understanding for;
     - Basic mathematical operators
         - addition/subtraction on numbers (`+`/`-`)
         - multiplication/division on numbers (`*`/`/`)
-        - modulo on numbers (`%`)
+        - the modulo on numbers (`%`)
     
 **Video**
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/isrkyyJfAz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
