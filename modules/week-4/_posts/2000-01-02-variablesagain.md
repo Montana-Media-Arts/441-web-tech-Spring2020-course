@@ -8,11 +8,11 @@ module: 4
 
 <br />
 
-You might be asking yourself, why are we covering variables again?  Well, they are the cornerstone of programming so it's good to have a solid grasp on them.
+You might be asking yourself, why are we covering variables again?  Well, they are the cornerstone of programming, so it's good to have a solid grasp on them.
 
 What does that mean to us?
 
-Remember from last week, that we can declare variable like this:
+Remember from last week, that we can declare a variable like this:
 
 - var
 - let
@@ -20,7 +20,7 @@ Remember from last week, that we can declare variable like this:
 
 Now, do you remember what those all mean?
 
-If I were to ask you to create a program that were to get a user's name and then put it into a variable.  Do you think you could that? 
+If I were to ask you to create a program that gets a user's name and then put it into a variable, do you think you could that? 
 
 If not, that's okay!  I will show you how.
 
@@ -40,7 +40,7 @@ Then, add a textbox into that file.
 
 Now, open the file in your favorite browser (still hopefully Chrome).  Does it show a textbox and a button? Great!
 
-Now, we need to get the information out of the text box.  How are we going to do that?  Well, first then we need to do is get the text from the label.
+Now, we need to get the information out of the text box.  How are we going to do that?  Well, first, then we need to do is get the text from the label.
 
 We need to add some JavaScript to access the DOM (quick check, you remember the DOM right?  If not, it stands for Document Object Model)
 
