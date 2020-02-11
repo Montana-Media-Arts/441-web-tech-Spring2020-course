@@ -10,6 +10,6 @@ jotted: true
 
 [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
 
-I encourage you to try the **Try It Yourself** sections to see how these work.
+I encourage you to try the **Try It Yourself** sections to see how this works.
 
-In Grasshopper, there are some sections under Practice that talk about Object Expressions. That should provide some practice with this as well.
+In Grasshopper, some sections under Practice discussing Object Expressions. That should provide some practice with this as well.

@@ -6,7 +6,7 @@ jotted: false
 
 # Local Storage
 
-So, what is **local storage**? You have used the query string and cookies, but what other mechanisms are there for storing information?  One is local storage.  It allows us to store information on a client without having to have a domain (like a cookie does) and you don't have to worry about having information in the query string in clear text.
+So, what is **local storage**? You have used the query string and cookies, but what other mechanisms are there for storing information?  One is local storage.  It allows us to store information on a client without having to have a domain (like a cookie does), and you don't have to worry about having data in the query string in cleartext.
 
 So, how does it work?  Here is the syntax of the two files required:
 
@@ -68,7 +68,7 @@ Whereas Page 2 looks like this:
 </html>
 ```
 
-You may notice that I needed to first change the JSON object to a string before I stored it in local storage.  Then, when I got it out of local storage since it's formatted correctly, I parsed it back into a JSON object.
+You may notice that I needed first to change the JSON object to a string before I stored it in local storage.  Then, when I got it out of local storage since it's formatted correctly, I parsed it back into a JSON object.
 
 Again, the **stringify** and **parse** functions come from the JSON class.  Cool huh?
 
