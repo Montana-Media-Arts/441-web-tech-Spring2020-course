@@ -10,7 +10,7 @@ Let's finish out the Person class example so that you can see all of this in use
 
 ## Define a Class
 
-First, we need to write our class. We know we want this class to be a digital representation of a "person", so let's label it as such. This means, our class initially will look like the following;
+First, we need to write our class. We know we want this class to be a digital representation of a "person", so let's label it as such.  Our class initially looks like the following;
 
 ```js
 class Person {
@@ -24,24 +24,24 @@ class Person {
 
 So, we should also consider what a person can do.  That is what we did in the previous section. They could walk and get the timeToTravel.
 
-For our example, let's have our main properties eyeColor and hairColor and then the methods or functions be walk and timeToTravel.
+For our example, let's have our main properties eyeColor and hairColor, and then the methods or functions be walk and timeToTravel.
 
 - eye color that is brown
 - hair color that is blonde
 
-The person will also:
+The Person will also:
 
 - walk
 - get the time to travel a certain distance
 
-These specifications can help us determine the properties the person will need. We can say that the person will likely need;
+These specifications can help us determine the properties the Person will need. We can say that the Person will likely need;
 
-- a eye color property
+- an eye color property
 - a hair color property
 - a walking speed property
 - a distance property
 
-This might result in the following constructor method;
+Below is the following constructor method.
 
 ```js
 class Person {
@@ -56,19 +56,19 @@ class Person {
 
 ## Consider Object Methods
 
-The next step might be to start writing the methods objects of this class may need. Since we are trying to write modular, highly-readable code, we want to try and write methods that do individual, well defined tasks. With that in mind, we can think about what people can do.
+The next step might be to start writing the methods objects of this class may need. Since we are trying to write modular, highly-readable code, we want to try and write methods that do individual, well-defined tasks. With that in mind, we can think about what people can do.
 
-- Want to see the properties of the person.
+- Want to see the properties of the Person.
 - A walking method
-- An time to travel method.
+- A time to travel method.
 
-With this in mind, lets write three methods..
+With this in mind, let's write three methods.
 
 #### toString
 
-The first of these we may want to write is the method to display the parameters of the person. This is the most common methods in any language.  You can find this method in most Object-Oriented programming languages.
+The first of these we may want to write is the method to display the parameters of the Person. toString is the most common method in any language.  You can find this method in most Object-Oriented programming languages.
 
-In this method, we need to grab the ball's eyeColor, hairColor, walkingSpeed properties, so that it can be returned as a string.
+In this method, we need to access the Person's eyeColor, hairColor, speed, and distance properties and returned as a string.
 
 ```js
 toString() {
@@ -82,11 +82,11 @@ toString() {
 
 #### Person walking
 
-To walk, the person will need a walking method.
+To walk, the Person will need a walking method.
 
 ```js
 walk() {
-    return `I am walking across the frozen tundra at ${this.speed} miles per hour`;
+    return `I am walking across the tundra at ${this.speed} miles per hour`;
 }
 ```
 
@@ -107,7 +107,7 @@ timeToTravel()
 
 #### Getters and Setters
 
-Remember when we were talking about changing the values of our properties directly and how that wasn't the best idea?  We want to use getters and setters -- these are special methods -- to make those changes for us.  It helps keep better control over who and when properties are changed. This is actually called **encapsulation**.  It just means we want the class to make changes to our properties, not the outside world.  So, we give access through getters and setters.
+Remember when we were talking about changing the values of our properties directly and how that wasn't the best idea?  We want to use getters and setters -- these are special methods -- to make those changes for us.  It helps keep better control over who and when properties are changed. This technique is called **encapsulation**.  It just means we want the class to make changes to our properties, not the outside world.  So, we give access through getters and setters.
 
 An example would be something like this:
 
@@ -137,8 +137,8 @@ class Person {
         this.distance = distance;
     }
     get eColor() {
-		return this.eyeColor;
-			}
+        return this.eyeColor;
+            }
     set eColor(eyeColor) {
         this.eyeColor = eyeColor;
     }
@@ -169,7 +169,7 @@ To create and use a Person object in JS, we will need to;
 
 #### Create a Variable
 
-The first thing, according to our list above, is to create a variable to store a reference to the object in.
+First, created a variable for which to store a reference to the object.
 
 ```js
 let myPerson;
@@ -188,7 +188,7 @@ myPerson = new Person( 'blue', 'brown',3,10);
 Finally, we can use our Person object.
 
 
-Look how simple and clean that code below looks! It is so easy to read and understand. By abstracting the Person into a class, we can create a person object, that we can call the methods from each of those objects. Each one makes sense and is readable!
+Look how clean and straightforward that code below looks! It is so easy to read and understand. By abstracting the Person into a class, we can create a person object that we can call the methods from each of those objects. Each one makes sense and is readable!
 
 ```html
 <html>
@@ -238,8 +238,8 @@ Look how simple and clean that code below looks! It is so easy to read and under
     </script>
 </head>
 <body>
-	<div id="myWalk"></div>
-	<div id="myTimeToTravel"></div>
+    <div id="myWalk"></div>
+    <div id="myTimeToTravel"></div>
     <div id="myPerson"></div>
     <script>
         createAndShow();   

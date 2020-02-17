@@ -7,24 +7,22 @@ jotted: false
 
 # OOP Terminology
 
-Let me start by saying, there are a lot of terms.  Have you gathered that yet?  In programming, just like in your other classes, there are a lot of terms that we have to know in order to be successful.  I am one hundred percent sure, you all could start talking about some graphic design terms and I would be fairly lost.  However, once we learn the terms, then the subject matter becomes much less scary.
+Let me start by saying, there are a lot of terms.  Have you gathered that yet?  In programming, just like in your other classes, there are a lot of words that we have to know to be successful.  I am one hundred percent sure, you all could start talking about some graphic design terms, and I would be somewhat lost.  However, once we learn the terminology, then the subject matter becomes much less scary.
 
 When it comes to OOP, there are two fundamental aspects.  They are Classes and Objects. 
 
-Let's start again with **what**.  What are classes and and what are objects?
+Let's start again with **what**.  What are classes, and what are objects?
 
 1. **Classes** - They are the blueprints or generic templates
 2. **Objects** - They are the specific instances of those blueprints/templates.
 
-Now that we know, the what, let's answer the better question **why**.
-
 **Why do we use classes and objects**
 
-We use classes to represent something in a generic way and specific objects to represent the actual items.
+We use classes to represent something generically and specific objects to describe the actual items.
 
 What does that mean?  Let's look at an example:
 
-Let's take a person for an example.  What do all people have?
+Let's take a person as an example.  What do all people have?
 
 1. Eye Color
 2. Number of Legs
@@ -36,13 +34,13 @@ Let's take a person for an example.  What do all people have?
 That is our class.  If what I specified above is the generic template, then a specific instance or object is:
 
 1. Blue eyes
-2. 2 legs
-3. 2 arms
+2. Two legs
+3. Two arms
 4. Brown Hair
 5. 5 foot 10 inches
 6. 175 lbs
 
-And we can create more people from the same class.  The nice part is that we don't have to create multiple classes, just multiple objects from the same class.
+And we can create more people from the same class.  The beautiful part is that we don't have to create multiple classes, just numerous objects from the same class.
 
 We will dig into Classes and Object in more detail in the next section.
 
@@ -50,17 +48,17 @@ We will dig into Classes and Object in more detail in the next section.
 
 ## Property
 
-An object or class **property** also known as an **attribute** is a piece of data used to describe the resulting object.
+An object or class **property**, also known as an **attribute**, is a piece of data used to describe the resulting object.
 
-In our previous example, the properies were Eye color, Number of Legs, Number of Arms, Hair Color, Height, Weight.  All of these things described our person.
+In our previous example, the properties were Eye color, Number of Legs, Number of Arms, Hair Color, Height, Weight.  All of these things described our person.
 
-When we created the object, they all had values like Blue eyes, 2 legs, etc.
+When we created the object, they all had values like Blue eyes, two legs, etc.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ri_LeIl5YnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Method
 
-An object or class **method** is a function.  You can think of it as "It does stuff".  So, any function you create, which you have done already, just does stuff for you.
+An object or class **method** is a function.  You can think of it as "It does stuff."  So, any function you create, which you have done already, does stuff for you.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdjzvrJgjbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,8 +73,8 @@ As we will see throughout this week's content, to create a new _instance_ of a c
 
 ## this
 
-A potentially confusing idea is the reference to "specific instances" of an object. When referring to a specific instance of an object, or, when referring to an object's own instance (from within the object) we will use the term **this**.
+A potentially confusing idea is the reference to "specific instances" of an object. When referring to a specific instance of an object, or when referring to an object's instance (from within the object), we will use the term **this**.
 
-The `this` keyword in JavaScript is used throughout the language, and can be very confusing (hence why it has remained anonymous until now). Before we dive deep into `this`, just try and accept that `this` refers to a specific instance of an object from within that object itself.
+JavaScript uses the `this` keyword throughout the language. Using `this` can be very confusing (hence why it has remained anonymous until now). Before we dive deep into `this`, try and accept that `this` refers to a variable in the object itself.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EhG17j2FmwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
