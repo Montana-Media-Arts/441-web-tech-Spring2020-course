@@ -1,14 +1,14 @@
 ---
 title: JSON Review
-module: 9-10
+module: 9
 jotted: true
 ---
 
 # JSON Review
 
-Before we look at how to access data using AJAX, we will review JSON. Recall JSON stands for JavaScript Object Notation.  This way we can store data as an object.
+Before we look at how to access data using AJAX, we will review JSON. Recall JSON stands for JavaScript Object Notation.  This way, we can store data as an object.
 
-Remember, JSON is a standardized method for storing and transporting unordered collections of data. This data is stored through _name:value_ pairs or key:value. Furthermore, the _values_ in JSON data can be;
+Remember, JSON is a standardized method for storing and transporting unordered collections of data. Data storage is through a _name:value_ pairs or key:value pairs. Furthermore, the _values_ in JSON data can be;
 
 - strings
 - numbers
@@ -20,7 +20,7 @@ Remember, JSON is a standardized method for storing and transporting unordered c
 <br />
 
 
-JSON Objects, once in JavaScript (i.e. after being sent over from an API on a remote server), appear as JS objects. As such, they can be traversed and manipulated using standard JS object notation and techniques.
+JSON Objects, once in JavaScript (i.e., after being sent over from an API on a remote server), appear as JS objects. As such, they can be traversed and manipulated using standard JS object notation and techniques.
 
 As an example, the following code creates a JS Object, which is also valid as JSON.
 
@@ -45,7 +45,7 @@ Once this object is bound to the variable `bike`, we can navigate through it and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KQMSfQr8GT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The following example creates the same object as above, but also demonstrates how to access values within the object.
+The following example creates the same object as above but also demonstrates how to access values within the object.
 
 ```html
 <html>
@@ -86,7 +86,7 @@ This shows us traditional JSON key/value pairs, as well as JSON inside of JSON a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ND9uNZIv9g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-But that's not all!  What about if we were do this in jQuery?  You could do it right?
+But that's not all!  What about if we were doing this in jQuery?  Could you do it?
 
 Let's look at an example:
 
@@ -137,6 +137,6 @@ Let's look at an example:
 
 ```
 
-Keep in mind that I used the `.html` function so that I could display the break tags correctly.  Otherwise, everything else was pretty much the same.  You guys should be really pumped about this.  It's all coming together.  So, why do we review JSON?  Well, as we talked about before, it's a very common delivery method from many different sources so we can read information from databases and server-side pages because they will give information back to the client via JSON.  So, let's look at AJAX.
+Keep in mind that I used the `.html` function so that I could display the break tags correctly.  Otherwise, everything else was pretty much the same.  All this information is exciting! It's all coming together.  So, why do we review JSON?  Well, as we talked about before, it's a ubiquitous delivery method from many different sources so we can read information from databases and server-side pages because they will give information back to the client via JSON.  So, let's look at AJAX.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/485pJBoSrpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
