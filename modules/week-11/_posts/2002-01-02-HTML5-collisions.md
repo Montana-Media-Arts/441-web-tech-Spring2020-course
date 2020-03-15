@@ -143,20 +143,12 @@ Now, here comes the new stuff, check for collision.  You can use the code above 
     showBlank: false,
     showResult: true,
     runScripts: true,
-    plugins: [With any game, you need to be able to handle collisions. We are going to use a simple box collider.  It checks the corners of the boxes to see if they are overlapping.  If they are, then it returns true, else it returns false.  Keep in mind, a collision can be more precise, but it takes more processing because the computer must check all the points of an object instead of just four.  Also, collision must be checked whenever something moves.
-
-Here is our collision code:
-
-```javascript
-function hasCollided(object1, object2) {
-    return !(
-        ((object1.y + object1.height) < (object2.y)) ||
-        (object1.y > (object2.y + object2.height)) ||
-        ((object1.x + object1.width) < object2.x) ||
-        (object1.x > (object2.x + object2.width))
-    );
-}
-```
+    plugins: [
+        { name: 'ace', options: { "maxLines": 100, "Lines": 100 } },
+        // { name: 'console', options: { autoClear: true } },
+    ]
+});
+</script>
 
 
 You did it!  I am proud of you! I knew you could do it!  Is there more?  Of course, there is, but we are going to wait until next week to do more.  Good job this week!
