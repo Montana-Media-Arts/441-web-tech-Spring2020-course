@@ -8,19 +8,19 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwYFdU3lHSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The HTML5 Canvas is a revolutionary tag element that provides a number of benefits such as:
+The HTML5 Canvas is a revolutionary tag element that provides many benefits, such as:
 
 * HTML Canvas Can be Animated
   * Canvas objects can move. Everything is possible: from simple bouncing balls to complex animations.
 
-* HTML Canvas Can be Interactive
+* HTML Canvas Can Be Interactive
   * Canvas can respond to JavaScript events.
   * Canvas can respond to any user action (key clicks, mouse clicks, button clicks, finger movement)
 
-* HTML Canvas Can be Used in Games
-  * Canvas' methods for animations, offer a lot of possibilities for HTML gaming applications.
+* HTML Canvas Used for Games
+  * Canvas' methods for animations offer a lot of possibilities for HTML gaming applications.
 
-Let's take a look at the most basic set up of the canvas.  If you want the canvas to appear, you just need the canvas tag.  It looks like this:
+Let's take a look at the most basic set up of the canvas.  If you want the canvas to appear, you need the canvas tag.  It looks like this:
 
 ```html
 <html>
@@ -73,7 +73,7 @@ Did it work? Yes? Good job!
 
 ## How do we draw?
 
-In order for us to interact with the canvas, we have to get the context of the canvas in 2d (3d requires a library and WebGL to help us).
+For us to interact with the canvas, we have to get the context of the canvas in 2d (3d requires a library and WebGL to help us).
 
 ```javascript
     var canvas = document.getElementById("myCanvas");
@@ -115,6 +115,6 @@ Now, we can draw something by adding these two lines.  You should see a single b
 });
 </script>
 
-Did you get a little blue square? Yes? Nicely done!
+Did you get a little blue square? Yes? Great!
 
 So, what else can we do?

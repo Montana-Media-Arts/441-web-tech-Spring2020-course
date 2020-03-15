@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SkXtDH2aGwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the last section, we looked at moving items across the screen. If you can do that, then you can move something with a key event too. Let's use our code frome before to draw a blue square:
+In the last section, we looked at moving items across the screen. If you can do that, then you can move something with a key event too. Let's use our code from before to draw a blue square:
 
 ```html
 <html>
@@ -49,7 +49,7 @@ In the last section, we looked at moving items across the screen. If you can do 
 
 Should we use WASD or arrows?  Or both?  Let's start with WASD.
 
-You may recall that all keys (input) have to get translated for the computer to be able to know which key was pressed.  For example, we know that M was pressed or Q. Did you know that each of those keys are mapped to a certain number and those numbers are stored as 0's and 1's so the computer knows what do to with them?  Cool huh?
+You may recall that all keys (input) have to get translated for the computer to understand the keypress.  For example, how do we know if the key M or Q was pressed? Did you know that the computer maps the keys to a certain number? The computer translates those numbers into 0's and 1's so that it knows what to do with them?  Cool huh?
 
 In JavaScript and jQuery, we have to either use their key's number or try and compare the actual letter.
 
@@ -67,7 +67,7 @@ function getKey(event)
 }
 ```
 
-Remember `this`?  It's back!  This allows us to check for key events on anything that might be on the page.  Then, we can get the letter that was pressed and do something.
+Remember `this`?  It's back!  The `this` keyword allows us to check for key events on anything that might be on the page.  Then, we can get the keystroke pressed and do something.
 
 ## You try it out!
 
@@ -103,7 +103,7 @@ Did you get it to move up? Yes?  Good job!
 
 #### Need a hint - read below
 
-So, let me ask you this. If I wanted to go up, which letter would I press?  `w` right?  Which value would I need to change? **x** or **y**?  If you answered **y**, you are correct!  What do I need to do to **y** to make the shape move up?  Do I need to **add** to it or **subtract** from it?  Keep in mind that 0,0 is in the upper left hand corner.  If you answered **subtract** from **y**, you were correct!
+So, let me ask you this. If I wanted to go up, which letter would I press?  `w` right?  Which value would I need to change? **x** or **y**?  If you answered **y**, you are correct!  What do I need to do to **y** to make the shape move up?  Do I need to **add** to it or **subtract** from it?  Keep in mind that 0,0 is in the upper left-hand corner.  If you answered **subtract** from **y**, you were correct!
 
 So, the function might be like this:
 
@@ -128,7 +128,7 @@ Did you notice I put the drawSquare function in after the if statement?  Why did
 
 ## You try it out!
 
-Can you put in the other letters? 
+Can you put add the other letters? 
 
 <div id="jotted-demo-2" class="jotted-theme-stacked"></div>
 
@@ -158,4 +158,4 @@ Can you put in the other letters?
 
 Did it work? Yes? Great!
 
-So, what about collisions?  Go to the next section and we will see about that!
+So, what about collisions?  Go to the next section, and we will see about that!

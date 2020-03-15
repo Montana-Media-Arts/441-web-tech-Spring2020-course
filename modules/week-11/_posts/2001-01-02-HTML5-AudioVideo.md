@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu0i31fMOpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Two of the most exciting tags elements introduced in HTML5 is the `audio` and `video` tags.  This allows us to embed audio and video just as easily as when we integrated images into our sites.
+Two of the most exciting tags elements introduced in HTML5 is the `audio` and `video` tags.  These tags allow us to embed audio and video just as easily as when we integrated images into our sites.
 
 For Audio, the syntax is like this:
 
@@ -25,9 +25,9 @@ For Audio, the syntax is like this:
 </html>
 ```
 
-As you can see the audio tag sets the src of the song and then plays the song.  There is an attribute called **controls** which allow the basic controls to appear for the music player.
+As you can see, the audio tag sets the src of the song and then plays the song.  There is an attribute called **controls**, which allows the necessary controls to appear for the music player.
 
-Similarly, the video controls works the same way.  The syntax looks like this:
+Similarly, the video controls work the same way.  The syntax looks like this:
 
 ```html
 <html>
@@ -46,10 +46,10 @@ Similarly, the video controls works the same way.  The syntax looks like this:
 
 ### Try it yourself!
 
-1. Can you add your own audio? 
-2. Can you add your own video? Find a great meme and make it appear!
+1. Can you add your audio? 
+2. Can you add your video? Find a great meme and make it appear!
 
-**Hint** Remember you need a fully qualified URL here for example: **https://montana-media-arts.github.io/web-tech-Spring2019/data/Brahms.mp3**
+**Hint** Remember you need a fully qualified URL here for an example: **https://montana-media-arts.github.io/web-tech-Spring2019/data/Brahms.mp3**
 
 #### Screenshot
 
@@ -87,7 +87,7 @@ Did it work? Yes? Well done!
 
 ## Change Source with Events
 
-For audio it looks like this:
+For audio, it looks like this:
 
 ```javascript
     var audio = document.getElementById("song");
@@ -101,7 +101,7 @@ and for the video, it would like like this:
     film.src="https://montana-media-arts.github.io/web-tech-Spring2019/modules/week-12/data/Cat.mp4";
 ```
 
-So, if we put it all together now.  The html file would look like this:
+So, if we put it all together now.  The HTML file would look like this:
 
 ```html
 <html>
@@ -272,6 +272,6 @@ and the HTML file would look something like this:
 });
 </script>
 
-You got it again? Yes? Good job! I knew you could do it!
+Did you get it again? Yes? Good job! I knew you could do it!
 
 So, what about the canvas?
