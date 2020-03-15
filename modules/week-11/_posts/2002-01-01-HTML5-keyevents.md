@@ -6,7 +6,7 @@ jotted: true
 
 # Key Events
 
-<iframe width="560" height="315" src="https://youtu.be/SkXtDH2aGwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SkXtDH2aGwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the last section, we looked at moving items across the screen. If you can do that, then you can move something with a key event too. Let's use our code from before to draw a blue square:
 

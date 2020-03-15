@@ -6,7 +6,7 @@ jotted: true
 
 # HTML5 Collisions
 
-<iframe width="560" height="315" src="https://youtu.be/oeTBJ3_05ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeTBJ3_05ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 With any game, you need to be able to handle collisions. We are going to use a really simple box collider.  It basically checks the corners of the boxes to see if they are overlapping.  If they are, then it returns true, else it returns false.  Keep in mind, collision can be more precise but it takes more processing because of all the points that must be checked.  Also, collision must be checked whenever something moves.
 
