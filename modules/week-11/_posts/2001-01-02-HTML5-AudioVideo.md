@@ -259,7 +259,7 @@ and the HTML file would look something like this:
         {
             type: "html",
             hide: false,
-            url:"https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples/blob/master/Week%2011/HandsOnExample.html"
+            url:"https://raw.githubusercontent.com/Montana-Media-Arts/441-WebTech-Spring2020-Examples/master/Week%2011/HandsOnExample.html"
 
     }],
     showBlank: false,
