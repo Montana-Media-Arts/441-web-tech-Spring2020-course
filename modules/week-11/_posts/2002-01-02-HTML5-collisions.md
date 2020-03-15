@@ -287,11 +287,4 @@ Now, here comes the new stuff, check for collision.  You can use the code above 
 
 
 You did it!  I am proud of you! I knew you could do it!  Is there more?  Of course, there is, but we are going to wait until next week to do more.  Good job this week!
-        { name: 'ace', options: { "maxLines": 100, "Lines": 100 } },
-        // { name: 'console', options: { autoClear: true } },
-    ]
-});
-</script>
-
-
-You did it!  I am proud of you! I knew you could do it!  Is there more?  Of course there is, but we are going to wait until next week to do more.  Good job this week!
+    
