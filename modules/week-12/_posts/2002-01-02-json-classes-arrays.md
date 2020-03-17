@@ -4,7 +4,7 @@ module: 12
 jotted: true
 ---
 
-# Combining JSON, Classes and Arrays
+# Combining JSON, Classes, and Arrays
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dD-rIIuEUJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
