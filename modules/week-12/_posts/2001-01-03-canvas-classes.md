@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hu9PQ4JYwzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Recall, the implementation of Key Events use the following jQuery events
+Recall, the implementation of Key Events use the following jQuery events.
 
 ```javascript
 $(document).ready(function(){
