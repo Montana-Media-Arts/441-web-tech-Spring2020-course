@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHsKBnSrTKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-First, go to Phaser.io and download the library.  From there, know that you need a live server to make this work. You can get this as an add-on in Atom and in Visual Studio Code.  I won't run correctly otherwise.
+First, go to Phaser.io and download the library.  From there, know that you need a live server to make this work. You can get this as an add-on in Atom and Visual Studio Code.  I won't run correctly otherwise.
 
 ## Live Server Instructions
 
@@ -26,7 +26,7 @@ First, go to Phaser.io and download the library.  From there, know that you need
 
 ## Assets
 
-Don't forget to get the assets from GitHub
+Don't forget to get the assets from GitHub.
 
 [Get the Assets](https://github.com/photonstorm/phaser3-examples)
 
@@ -99,6 +99,6 @@ Put these directly in the assets folder.
 </html>
 ```
 
-This is what it should look like
+Below is a screenshot of Hello Phaser.
 
 ![Phaser Hello World](../imgs/PhaserHello.png "Phaser Hello World")

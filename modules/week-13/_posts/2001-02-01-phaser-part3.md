@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tz2UBmQnoBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now, we are going to make one of the images appear
+Now, we are going to make one of the images appear.
 
 ```html
 <!doctype html> 

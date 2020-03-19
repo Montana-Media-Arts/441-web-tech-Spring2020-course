@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26rY57BJpvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To make this more interesting, let's add some stars to collect. They will fall from the sky and the player will collect them.
+To make this more interesting, let's add some stars to collect. They will fall from the sky, and the player will receive them.
 
 ```html
 <!doctype html> 

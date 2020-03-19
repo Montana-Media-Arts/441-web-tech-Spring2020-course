@@ -5,4 +5,4 @@ module: 13
 
 # Conclusions
 
-This week looked at the first of two different libraries.  This one is a popular web game engine and next week we will look at another library.
+This week looked at the first of two different libraries.  This one is a popular web game engine, and next week we will look at another library.

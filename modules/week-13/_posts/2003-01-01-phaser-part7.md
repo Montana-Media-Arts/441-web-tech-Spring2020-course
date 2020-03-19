@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5wiZ2knCTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Let's make the player move now.  This happens in the update function as it gets called each frame.  It allows you press keys and then change the velocity of the player.
+Let's make the player move now.  The movement of the player must happen in the update function as it gets called each frame.  It allows you to press keys and change the velocity of the player.
 
 ```html
 <!doctype html> 
@@ -135,4 +135,4 @@ Let's make the player move now.  This happens in the update function as it gets 
 </html>
 ```
 
-Use the arrow keys to move the player now.  This will move the user back and forth.  If you want to jump, use the up key.
+Use the arrow keys to move the player back and forth.  If you want to jump, use the up key.
