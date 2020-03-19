@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oeTBJ3_05ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-With any game, you need to be able to handle collisions. We are going to use a really simple box collider.  It basically checks the corners of the boxes to see if they are overlapping.  If they are, then it returns true, else it returns false.  Keep in mind, collision can be more precise but it takes more processing because of all the points that must be checked.  Also, collision must be checked whenever something moves.
+With any game, you need to be able to handle collisions. We are going to use a simple box collider.  It checks the corners of the boxes to see if they are overlapping.  If they are, then it returns true, else it returns false.  Keep in mind, a collision can be more precise, but it takes more processing because of all the algorithm checks all the points of the shape.  Also, every move checks collision.
 
 Here is our collision code:
 
@@ -23,11 +23,11 @@ function hasCollided(object1, object2) {
 }
 ```
 
-Now, wait a minute.. you might have thought that objects were going away.. but what if I told you that you could create an object out of each of your squares (assuming you have at least two).  Then, you can send your objects into this function and it will check to see if you have collided or not.
+Now, wait a minute. You might have thought that objects were going away. But what if I told you that you could create an object out of each of your squares (assuming you have at least two).  Then, you can send your objects into this function, and it will check to see if you have collided or not.
 
 ## Try it out!
 
-Do you remember how to create a class? Can you create a class called Square with the properties x, y, height, width, and color.  Then, create your constructor and getters and setters.
+Do you remember how to create a class? Can you create a class called Square with the properties x, y, height, width, and color?  Then, create your constructor and getters and setters.
 
 <div id="jotted-demo-1" class="jotted-theme-stacked"></div>
 
@@ -122,7 +122,7 @@ Look how far you have come!  I am so proud of you!
 
 ## Try it yourself!
 
-Now, here comes the new stuff, check for collision.  You can use the code above and check collision between your two squares each time the first square moves.  Just make sure that the first square can no longer move or have the first square move back a bit from the second square (like a bounce)if they collide or move. It's up to you!
+Now, here comes the new stuff, check for collision.  You can use the code above and check the collision between your two squares each time the first square moves.  Just make sure that the first square can no longer move or have the first square move back a bit from the second square (like a bounce)if they collide or move. It's up to you!
 
 <div id="jotted-demo-4" class="jotted-theme-stacked"></div>
 

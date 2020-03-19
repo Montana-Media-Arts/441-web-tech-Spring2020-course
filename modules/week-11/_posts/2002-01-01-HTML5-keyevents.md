@@ -49,7 +49,7 @@ In the last section, we looked at moving items across the screen. If you can do 
 
 Should we use WASD or arrows?  Or both?  Let's start with WASD.
 
-You may recall that all keys (input) have to get translated for the computer to understand the keypress.  For example, how do we know if the key M or Q was pressed? Did you know that the computer maps the keys to a certain number? The computer translates those numbers into 0's and 1's so that it knows what to do with them?  Cool huh?
+You may recall that all keys (input) have to get translated for the computer to understand the keypress.  For example, how do we know when the user presses the M or Q keys? Did you know that the computer maps the keys to a certain number? The computer translates those numbers into 0's and 1's so that it knows what to do with them?  Cool huh?
 
 In JavaScript and jQuery, we have to either use their key's number or try and compare the actual letter.
 
@@ -67,7 +67,7 @@ function getKey(event)
 }
 ```
 
-Remember `this`?  It's back!  The `this` keyword allows us to check for key events on anything that might be on the page.  Then, we can get the keystroke pressed and do something.
+Remember `this`?  It's back!  The `this` keyword allows us to check for keyEvents on anything that might be on the page.  Then, we can get the keystroke pressed and do something.
 
 ## You try it out!
 

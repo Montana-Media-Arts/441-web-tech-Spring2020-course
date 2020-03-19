@@ -8,7 +8,7 @@ jotted: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu0i31fMOpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Two of the most exciting tags elements introduced in HTML5 is the `audio` and `video` tags.  These tags allow us to embed audio and video just as easily as when we integrated images into our sites.
+Two of the most exciting tag elements introduced in HTML5 is the `audio` and `video` tags.  These tags allow us to embed audio and video just as easily as when we integrated images into our sites.
 
 For Audio, the syntax is like this:
 
@@ -25,7 +25,7 @@ For Audio, the syntax is like this:
 </html>
 ```
 
-As you can see, the audio tag sets the src of the song and then plays the song.  There is an attribute called **controls**, which allows the necessary controls to appear for the music player.
+As you can see, the audio tag sets the src of the song and then plays the melody.  There is an attribute called **controls**, which allows the necessary controls to appear for the music player.
 
 Similarly, the video controls work the same way.  The syntax looks like this:
 
