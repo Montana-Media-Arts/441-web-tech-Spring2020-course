@@ -16,7 +16,7 @@ The beautiful part about Phaser is that it gives us a built-in collision system.
 <head> 
     <meta charset="UTF-8" />
     <title>Making your first Phaser 3 Game - Part 6</title>
-    <script src="//cdn.jsdelivr.net/npm/phaser@3.11.0/dist/phaser.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.11.0/dist/phaser.js"></script>
     <style type="text/css">
         body {
             margin: 0;

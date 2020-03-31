@@ -16,7 +16,7 @@ It's great to collect the stars. However, it would be better to show a score as 
 <head> 
     <meta charset="UTF-8" />
     <title>Making your first Phaser 3 Game - Part 9</title>
-    <script src="//cdn.jsdelivr.net/npm/phaser@3.11.0/dist/phaser.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.11.0/dist/phaser.js"></script>
     <style type="text/css">
         body {
             margin: 0;
