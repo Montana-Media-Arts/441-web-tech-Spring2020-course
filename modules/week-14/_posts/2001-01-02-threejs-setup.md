@@ -6,25 +6,27 @@ jotted: true
 
 # Set up
 
-First thing we need to do is make sure we have the correct set up.  Here is an example of what your code in your html file could look like.
+<a href="https://umontana.zoom.us/rec/play/tcEpdeiprWk3TIfDuQSDV_MrW42_Lf2s0SJM__cLyku0AiYFOgajYOEQZbEoWa68aZw9_HilB7JatnZJ?continueMode=true&_x_zm_rtaid=Jy8A7lfcT7a7lcNIPPwruA.1586580115012.04bd670198c0317137d387c683f84aae&_x_zm_rhtaid=860">Video Link</a>
+
+The first thing we need to do is to make sure we have the correct setup.  Here is an example of a potential HTML file.
 
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>My first three.js app</title>
-		<style>
-			body { margin: 0; }
-			canvas { display: block; }
-		</style>
-	</head>
-	<body>
-		<script src="js/three.js"></script>
-		<script>
-			// Our Javascript will go here.
-		</script>
-	</body>
+    <head>
+        <meta charset="utf-8">
+        <title>My first three.js app</title>
+        <style>
+            body { margin: 0; }
+            canvas { display: block; }
+        </style>
+    </head>
+    <body>
+        <script src="js/three.js"></script>
+        <script>
+            // Our Javascript will go here.
+        </script>
+    </body>
 </html>
 ```
 
@@ -36,7 +38,7 @@ There are three main parts to a threejs file.
 * camera
 * renderer
 
-My guess is that you have heard and used those terms before so hopefully that isn't too much of a stretch.  Here is what the beginning code looks like.  The following code goes in your js file or between your script tags.  It's up to you.
+I assume you have heard and used these terms before. Hopefully, this section won't be too much a stretch.  Here the beginning code.  The following code goes in your js file or between your script tags.  It's up to you.
 
 ```js
 var scene = new THREE.Scene();
@@ -47,8 +49,8 @@ renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 ```
 
-So, it creates the scene in the first line by calling it out of the threejs library, then the camera an dhtne the renderer.  Keep in mind, it must use WebGL to render 3D which is no different than p5 or processing if you remember from Creative Coding 1.  I bet you never thought that would come back!
+The first line creates the scene by accessing the threejs library and then sets the camera. Then, the next instantiates the renderer.  Keep in mind; it must use WebGL to render anything in 3D, which is no different than p5 or processing if you remember from Creative Coding 1.  I bet you never thought that would come back!
 
-If you run this, you should see a black screen. Not too exciting is it?  
+If you run this, you should see a black screen. Not too exciting, is it?  
 
 So, where do we go from here?

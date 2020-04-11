@@ -6,7 +6,9 @@ jotted: true
 
 # Add Models
 
-threejs also allows you to add models that were created in other applications and exported as glb files.  In the following example, this what is required to make it appear.
+<a href="https://umontana.zoom.us/rec/play/7sd_Iu2vr2g3H9XH4gSDAPB_W43rJ_6s1HJI-vpcxRnnV3hWNgb0brJANzEfuQ5AF-kA6ZKNRv9XxzA?continueMode=true&_x_zm_rtaid=Jy8A7lfcT7a7lcNIPPwruA.1586580115012.04bd670198c0317137d387c683f84aae&_x_zm_rhtaid=860">Video Link</a>
+
+threejs also allows you to add models that were created in other applications and exported as glb files.  The following example shows what is required to make the model appear.
 
 ```html
     <script src="js/three.js"></script>
